@@ -1,0 +1,6 @@
+# ignore a binary you may copy out
+deno
+
+# ignore vagrant metadata
+.vagrant
+
